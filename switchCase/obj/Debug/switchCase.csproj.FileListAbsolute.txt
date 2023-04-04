@@ -1,0 +1,7 @@
+C:\Users\asus pc\RiderProjects\switchCase\switchCase\obj\Debug\switchCase.csproj.AssemblyReference.cache
+C:\Users\asus pc\RiderProjects\switchCase\switchCase\obj\Debug\switchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus pc\RiderProjects\switchCase\switchCase\obj\Debug\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\asus pc\RiderProjects\switchCase\switchCase\bin\Debug\switchCase.exe
+C:\Users\asus pc\RiderProjects\switchCase\switchCase\bin\Debug\switchCase.pdb
+C:\Users\asus pc\RiderProjects\switchCase\switchCase\obj\Debug\switchCase.exe
+C:\Users\asus pc\RiderProjects\switchCase\switchCase\obj\Debug\switchCase.pdb
